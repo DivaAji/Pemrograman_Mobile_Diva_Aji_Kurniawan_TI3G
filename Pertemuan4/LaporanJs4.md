@@ -197,9 +197,9 @@ Apa yang terjadi ? Jika terjadi error, silakan perbaiki. Tunjukkan hasilnya jika
   print(nav);
   ```
 Output ketika variabel promoActive true:
-<img src = 'image/4.4True.png'>
+<img src = 'image/4.4true.png'>
 Output ketika variabel promoActive false:
-<img src = 'image/4.4False.png'>
+<img src = 'image/4.4false.png'>
 
 ### Langkah 5:
 Tambahkan kode program berikut, lalu coba eksekusi (Run) kode Anda.
