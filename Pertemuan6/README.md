@@ -115,6 +115,13 @@ Pada langkah terakhir ini, atur semua elemen dalam ListView, bukan Column, karen
 ### Output praktikum 4
 <img src="images/output4.png">
 
+## Tugas Praktikum 1
+1. Selesaikan Praktikum 1 sampai 4, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md!
+>Link repo : https://github.com/DivaAji/layout_flutter
+2. Silakan implementasikan di project baru "basic_layout_flutter" dengan mengakses sumber ini: https://docs.flutter.dev/codelabs/layout-basics
+>Link repo : https://github.com/DivaAji/basic_layout_flutter
+3. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
+
 ## Praktikum 5
 Link repo github: https://github.com/DivaAji/belanja
 
@@ -149,3 +156,25 @@ Untuk menampilkan ListView pada praktikum ini digunakan itemBuilder. Data diambi
 Setelah dilakukan beberapa modifikasi. Hasilnya sebagai berikut:
 <img src='images/output5.1.png'>
 <img src='images/output5.2.png'>
+
+## Tugas Praktikum 2
+1. Untuk melakukan pengiriman data ke halaman berikutnya, cukup menambahkan informasi arguments pada penggunaan Navigator. Perbarui kode pada bagian Navigator menjadi seperti berikut.
+<img src='images/tugas2.1.png'>
+
+2. Pembacaan nilai yang dikirimkan pada halaman sebelumnya dapat dilakukan menggunakan ModalRoute. Tambahkan kode berikut pada blok fungsi build dalam halaman ItemPage. Setelah nilai didapatkan, anda dapat menggunakannya seperti penggunaan variabel pada umumnya.
+<img src='images/tugas2.2.png'>
+
+3. Pada hasil akhir dari aplikasi belanja yang telah anda selesaikan, tambahkan atribut foto produk, stok, dan rating. Ubahlah tampilan menjadi GridView seperti di aplikasi marketplace pada umumnya.
+<img src='images/tugas2.3.png'>
+
+4. Silakan implementasikan Hero widget pada aplikasi belanja Anda dengan mempelajari dari sumber ini: https://docs.flutter.dev/cookbook/navigation/hero-animations
+<img src='images/gif1.gif'>
+
+5. Sesuaikan dan modifikasi tampilan sehingga menjadi aplikasi yang menarik. Selain itu, pecah widget menjadi kode yang lebih kecil. Tambahkan Nama dan NIM di footer aplikasi belanja Anda.
+Pecah menjadi product_card, product_detail, dan tambahkan footer pada widget
+<img src='images/tugas2.5.png'>
+
+6. Selesaikan Praktikum 5: Navigasi dan Rute tersebut. Cobalah modifikasi menggunakan plugin go_router, lalu dokumentasikan dan push ke repository Anda berupa screenshot setiap hasil pekerjaan beserta penjelasannya di file README.md. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
+<img src='images/tugas2.6..png'>
+
+Link repo: https://github.com/DivaAji/belanja/commits/main/
